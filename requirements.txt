@@ -1,0 +1,8 @@
+llama-index-core
+llama-index-llms-deepseek
+llama-index-vector-stores-milvus
+llama-index-embeddings-openai
+llama-index-readers-file
+pymilvus
+vllm
+pypdf
